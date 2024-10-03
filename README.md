@@ -1,55 +1,17 @@
-<a id="readme-top"></a>
-
-<div align="center">
-    <img src="READMEMD_IMG/BYTECHLAB_LOGO.png" alt="Logo" height="200">
-</div>
-  
-  
-<h3 align="center">LED CALENDAR</h3>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 <div align="center">
     <img src="READMEMD_IMG/led-calendar-front-view-2.JPG" alt="project photo">
 </div>
 
-Led calendar project .........
+ESP8266 based LED calendar.
 
-Project category: [DIGITAL_EL]
+### Read more at BYTECHLAB:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Built With
-
-- Altium Designer,
-- Autodesk Inventor,
-- Arduino ( libraries.....)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## TODO
-
-- [x] Fix bugs...
-- [x] Fix bugs...
-- [ ] Fix bugs...
-    - [ ] Fix bugs...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## MCAD - REV1 - Bugs
-
-.............
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ECAD - REV1 - Bugs
-
-.............
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td><img src="READMEMD_IMG/BYTECHLAB_LOGO.png" alt="Logo" height="60"></td>
+    <td>https://bytechlab.com/</td>
+  </tr>
+</table>
 
 ## License
 Software \ Firmware:
@@ -70,11 +32,3 @@ Hardware:
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Links
-
-ByTechLab project link:   .........
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
