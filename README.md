@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="READMEMD_IMG/led-calendar-front-view-2.JPG" alt="project photo">
+    <img src="README_MD_IMG/led-calendar-front-view-2.JPG" alt="project photo">
 </div>
 
 ESP8266 based LED calendar.
@@ -8,7 +8,7 @@ ESP8266 based LED calendar.
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td><img src="READMEMD_IMG/BYTECHLAB_LOGO.png" alt="Logo" height="60"></td>
+    <td><img src="README_MD_IMG/BYTECHLAB_LOGO.png" alt="Logo" height="60"></td>
     <td>https://bytechlab.com/</td>
   </tr>
 </table>
