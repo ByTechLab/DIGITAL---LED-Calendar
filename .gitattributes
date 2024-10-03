@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+PCB_LED_CALENDAR.iam filter=lfs diff=lfs merge=lfs -text
+PCB_LED_CALENDAR.step filter=lfs diff=lfs merge=lfs -text
