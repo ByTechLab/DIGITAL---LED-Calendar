@@ -9,7 +9,7 @@ ESP8266 based LED calendar.
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img src="README_MD_IMG/BYTECHLAB_LOGO.png" alt="Logo" height="60"></td>
-    <td>https://bytechlab.com/</td>
+    <td>https://bytechlab.com/led-calendar/</td>
   </tr>
 </table>
 
@@ -18,7 +18,7 @@ Software \ Firmware:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Hardware:
+Hardware \ Hardware design files \ Hardware documentation:
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
